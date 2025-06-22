@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEditor;
 
-public class Editor : MonoBehaviour
+public class Editor : EditorWindow
 {
     // Start is called before the first frame update
     void Start()
